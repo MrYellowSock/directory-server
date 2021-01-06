@@ -108,5 +108,5 @@ server.on('clientError', (err, socket) => {
     socket.end('HTTP/1.1 400 Bad Request\r\n\r\n');
 });
 server.listen(port,()=>{
-    console.log(`server port:${port} http://localhost:${port}`);
+    console.log(`server started! http://localhost:${port}`);
 })
