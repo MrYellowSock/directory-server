@@ -4,7 +4,7 @@ simple lightweight directory file server with Web UI.
 # Requirement
 - nodejs vesion >= v6.1.0
 
-# Configuration
+# Configuration (config.json)
 name | description
 -----| -----------
 port | Server port
