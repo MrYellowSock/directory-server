@@ -9,7 +9,7 @@ name | description
 -----| -----------
 port | Server port
 dir_path | directory absolute path where server serve file.
-enable_log | log files and directories accessed by clients.
+enable_log | log files and directories served to clients.
 
 # Start server
 ```node server.js```
