@@ -1,0 +1,5 @@
+-remove querystring (use urlparser)///////////////////
+-<a>go to mainpage </a> (when requested path not found)/////////
+-timing how long does it takes to download///////////////
+-when access from outer server "serving" Doesnt show/////////
+-latin character////////////
